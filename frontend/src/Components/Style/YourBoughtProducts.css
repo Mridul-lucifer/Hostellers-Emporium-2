@@ -1,0 +1,36 @@
+.YourBoughtProducts-outer {
+    width: 80%; /* Use percentage instead of vw for better scaling */
+    margin: 5vh auto; /* Center the element */
+    border: solid 2px grey;
+    padding: 20px; /* Use pixels or rems for better control */
+    display: flex;
+    flex-wrap: wrap; /* Allow items to wrap if necessary */
+    /* justify-content: space-between; Space items evenly */
+    
+}
+
+.YourBoughtProducts-inner {
+    margin : 2vh 1.3vw;
+    width: 30%; /* Use percentage for width, so it adjusts with parent */
+    border: solid 2px grey;
+    padding: 10px; /* Smaller padding for better control */
+    box-sizing: border-box; /* Make sure padding doesn't affect width */
+}
+
+.YourBoughtProducts-header{
+    text-align: center;
+    color: red;
+}
+.YourBoughtProducts-button{
+    text-align: center;
+    margin: 1vh 5vw;
+    width: 10vw;
+    padding: 1vh 1vw;
+    border-radius: 5px;
+    background-color: grey;
+    color: white;
+}
+.YourBoughtProducts-button:hover{
+    background-color: lightgray;
+    color: black;
+}

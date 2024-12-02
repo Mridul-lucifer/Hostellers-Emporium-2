@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+.UpdateProfile-outerbox{
+    width: 100%;
+    background-color:#BB2B2B;
+    display: flex;
+}
+.UpdateProfile-innerbox-logo{
+    width: 50%;
+}
+.UpdateProfile-Logo{
+    display: flex;
+    margin-top: 27%;
+    justify-content: center;
+}
+.UpdateProfile-Logo-Name{
+    color: white;
+    text-align: center;
+    font-family: 'Inika',serif;
+    font-weight: 600;
+    font-style: italic;
+}
+.UpdateProfile-innerbox-form{
+    width: 50%;
+}
+.UpdateProfile-form{
+    display:grid;
+    width: 80%;
+    margin: 3rem 10%;
+    align-items: center;
+    background-color: #CABEBE;
+    border-radius: 10px;
+}
+.UpdateProfile-Heading{
+    margin: 4% 0%;
+    text-align: center;
+    font-weight: 900;
+    font-style: bold;
+    font-size: xxx-large;
+    font-family: 'Inika';
+    color: black;
+}
+.UpdateProfile-Label{
+    margin:3% 5%;
+    font-family: 'Inika';
+    font-size: x-large;
+    font-weight: 600;
+}
+.UpdateProfile-Input{
+    margin: 3% 5% 5% 5%;
+    width: 86%;
+    height: 33%;
+    border-radius: 5px;
+    border: none;
+    font-size: x-large;
+    padding: 1% 2%;
+}
+.UpdateProfile-Button{
+    font-family: 'Inika';
+    font-size: x-large;
+    background-color: #BB2B2B;
+    color: white;
+    margin: 3% 20%;
+    font-weight: 600;
+    height: 2rem ;
+    border-radius: 5px;
+    border: none;
+}
+.UpdateProfile-Password{
+    text-align: center;
+    margin-bottom: 3% ;
+    text-decoration: none;
+    color: black;
+    font-family: 'Inika';
+}
+
+/* media query */
+@media screen and (max-width: 700px) {
+    .UpdateProfile-innerbox-logo{
+        display:none; 
+    }
+    .UpdateProfile-innerbox-form{ 
+        height:auto;
+        width: 100%;
+    }
+    .UpdateProfile-form{
+        height: 40rem;
+        margin-top: 4rem;
+        margin-bottom: 5rem;
+    }
+}

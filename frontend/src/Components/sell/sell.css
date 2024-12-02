@@ -1,0 +1,54 @@
+#sell-outer{
+    width: 80%;
+    height: 500px;
+    border: solid 2px red;
+    margin-left: 10% ;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+#sell-heading{
+    color: red;
+    text-align: center;
+}
+#sell-inner{
+    background-color: red;
+    margin: 3% 3% 3% 3%;
+    height: 400px;
+    width: 94%;
+}
+.sell-input{
+    text-align: center;
+}
+.sell-input input,select{
+    width: 38%;
+    height: 30px;
+    border: none;
+    margin-top:7px ;
+    font-size: larger;
+}
+.sell-input ::placeholder , #placeholder{
+    color: rgb(151, 149, 149);
+}
+#sell-agreement{
+    text-align: center;
+    color: white;
+    height: 20px;
+    margin-bottom: 0;
+}
+#sell-box{
+    color: white;
+    width: 40%;
+    font-size: smaller;
+    margin-left: 31%;
+    margin-top: 1%;
+}
+#sell-post-button{
+    width: 10%;
+    height: 40px;
+    margin-left: 42%;
+    margin-top: 2%;
+    border: none;
+    background-color: rgb(131, 186, 49);
+    color: white;
+    font-size: larger;
+}

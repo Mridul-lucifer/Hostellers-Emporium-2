@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Signup-outerbox{
+    width: 100%;
+    background-color:#BB2B2B;
+    display: flex;
+}
+.Signup-innerbox-logo{
+    width: 50%;
+}
+.Signup-Logo{
+    display: flex;
+    margin-top: 27%;
+    justify-content: center;
+}
+.Signup-Logo-Name{
+    color: white;
+    text-align: center;
+    font-family: 'Inika',serif;
+    font-weight: 600;
+    font-style: italic;
+}
+.Signup-innerbox-form{
+    width: 50%;
+}
+.Signup-form{
+    display:grid;
+    width: 90%;
+    margin: 1.5rem 5%;
+    align-items: center;
+    background-color: #CABEBE;
+    border-radius: 10px;
+}
+.Signup-Heading{
+    margin: 2% 0%;
+    text-align: center;
+    font-weight: 900;
+    font-size: xxx-large;
+    font-family: 'Inika';
+    color: black;
+}
+.Signup-Label{
+    margin:2% 5%;
+    font-family: 'Inika';
+    font-size: x-large;
+    font-weight: 600;
+}
+.Signup-Input{
+    margin: 2% 5% 2% 5%;
+    width: 86%;
+    height: 33%;
+    border-radius: 5px;
+    border: none;
+    font-size: x-large;
+    padding: 1% 2%;
+}
+.Signup-Button{
+    font-family: 'Inika';
+    font-size: x-large;
+    background-color: #BB2B2B;
+    color: white;
+    margin: 5% 20%;
+    font-weight: 600;
+    height: 2rem ;
+    border-radius: 5px;
+    border: none;
+}
+.Signup-Login{
+    text-align: center;
+    margin-bottom: 2.7% ;
+    text-decoration: none;
+    color: black;
+    font-family: 'Inika';
+}
+
+/* media query */
+@media screen and (max-width: 700px) {
+    .Signup-innerbox-logo{
+        display:none;
+    }
+    .Signup-innerbox-form{
+        height:auto;
+        width: 100%;
+    }
+    .Signup-form{
+        height: 40rem;
+        margin-top: 4rem;
+        margin-bottom: 5rem;
+    }
+}

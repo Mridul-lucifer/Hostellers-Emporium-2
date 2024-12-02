@@ -1,0 +1,33 @@
+.HomePage-outer{
+    background-color: #E4C4C4;
+}
+.HomePage-inner1 {
+    background-image: url('https://watermark.lovepik.com/photo/50060/0745.jpg_wh1200.jpg');
+    background-size: cover; /* Ensures the image covers the entire area */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents tiling of the image */
+    width: 100%;
+    height: 15rem;
+}
+.HomePage-inner1 h1{
+    position:relative;
+    top:12rem;
+    font-size:3rem;
+}
+.HomePage-inner2 {
+    font-family: 'Inika',serif;
+    font-size: x-large;
+    /* color: white; */
+    padding: 3rem;
+    text-align: justify;
+    margin: 0 10%;
+}
+.HomePage-images{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 5% 5% 10% 5%;
+}
+
+.HomePage-images img{
+    border-radius: 15px;
+}

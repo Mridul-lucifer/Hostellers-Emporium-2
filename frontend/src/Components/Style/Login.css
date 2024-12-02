@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+.LoginPage-outerbox{
+    width: 100%;
+    background-color:#BB2B2B;
+    display: flex;
+}
+.LoginPage-innerbox-logo{
+    width: 50%;
+}
+.LoginPage-Logo{
+    display: flex;
+    margin-top: 27%;
+    justify-content: center;
+}
+.LoginPage-Logo-Name{
+    color: white;
+    text-align: center;
+    font-family: 'Inika',serif;
+    font-weight: 600;
+    font-style: italic;
+}
+.LoginPage-innerbox-form{
+    width: 50%;
+}
+.LoginPage-form{
+    display:grid;
+    width: 90%;
+    margin: 3rem 5%;
+    align-items: center;
+    background-color: #CABEBE;
+    border-radius: 10px;
+}
+.LoginPage-Heading{
+    margin: 5% 0%;
+    text-align: center;
+    font-weight: 900;
+    font-style: bold;
+    font-size: xxx-large;
+    font-family: 'Inika';
+    color: black;
+}
+.LoginPage-Label{
+    margin:5% 5%;
+    font-family: 'Inika';
+    font-size: x-large;
+    font-weight: 600;
+}
+.LoginPage-Input{
+    margin: 4% 5% 9% 5%;
+    width: 86%;
+    height: 33%;
+    border-radius: 5px;
+    border: none;
+    font-size: x-large;
+    padding: 1% 2%;
+}
+.LoginPage-Button{
+    font-family: 'Inika';
+    font-size: x-large;
+    background-color: #BB2B2B;
+    color: white;
+    margin: 5% 20%;
+    font-weight: 600;
+    height: 2rem ;
+    border-radius: 5px;
+    border: none;
+}
+.LoginPage-Signup{
+    text-align: center;
+    margin-bottom: 3% ;
+    text-decoration: none;
+    color: black;
+    font-family: 'Inika';
+}
+
+/* media query */
+@media screen and (max-width: 700px) {
+    .LoginPage-innerbox-logo{
+        display:none; 
+    }
+    .LoginPage-innerbox-form{ 
+        height:auto;
+        width: 100%;
+    }
+    .LoginPage-form{
+        height: 40rem;
+        margin-top: 4rem;
+        margin-bottom: 5rem;
+    }
+}

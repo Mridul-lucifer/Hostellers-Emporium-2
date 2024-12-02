@@ -1,0 +1,28 @@
+.Query-outerBox{
+    border: solid 2px grey;
+    margin: 10vh auto ;
+    width: 50vw;
+    min-height: 50vh;
+    font-size: larger;
+}
+.Query-outerBox form{
+    width: 40vw;
+    min-height: 36vh;
+    background-color: rgba(128, 128, 128,0.5);
+    margin: 5vh auto;
+    padding: 2vh 2vw;
+    /* text-align: center; */
+}
+.Query-outerBox form h2 {
+    text-align: center;
+}
+.query-button{
+    text-align: center;
+}
+.query-button button{
+    padding: 1vh 1vw;
+    border-radius: 2px;
+}
+.Query-outerBox form input{
+    font-size: larger;
+}

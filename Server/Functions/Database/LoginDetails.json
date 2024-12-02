@@ -1,0 +1,57 @@
+[
+  {
+    "UserId": 1,
+    "Email": "s@gmail.com",
+    "Name": "Seller",
+    "Password": "$2a$08$LRJHytzYVyRVpkLA8M.P9eQUPlb5YVv3C2OJprq6c2rzOAepnQtRC",
+    "Contact": "1234567890",
+    "InProgressBuying": [],
+    "Bought": []
+  },
+  {
+    "UserId": 2,
+    "Email": "b@gmail.com",
+    "Name": "Buyer",
+    "Password": "$2a$08$WkoDpAzuZhC1/kvsk1OKI./hdxkyT7YNMsEnm5SMEPVFxa6pU.tGG",
+    "Contact": "1234567890",
+    "InProgressBuying": [
+      {
+        "ProductName": "Product 3",
+        "Units": 1,
+        "Seller": "s@gmail.com",
+        "time": "2024-11-22T07:52:30.869Z",
+        "ChatId": 2
+      }
+    ],
+    "Bought": [
+      {
+        "ProductName": "Product 1 ",
+        "Units": 1,
+        "Seller": "s@gmail.com",
+        "time": "2024-11-22T07:52:27.823Z",
+        "ChatId": 1
+      },
+      {
+        "ProductName": "Product 4",
+        "Units": 1,
+        "Seller": "s@gmail.com",
+        "time": "2024-11-22T08:53:12.050Z",
+        "ChatId": 4
+      },
+      {
+        "ProductName": "Product 2",
+        "Units": 1,
+        "Seller": "s@gmail.com",
+        "time": "2024-11-22T09:04:56.539Z",
+        "ChatId": 4
+      },
+      {
+        "ProductName": "Product 2",
+        "Units": 1,
+        "Seller": "s@gmail.com",
+        "time": "2024-11-22T08:51:27.619Z",
+        "ChatId": 3
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+.Footer-outer{
+    padding: 5% 3%;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #E4C4C4;
+    font-family: 'Inika',serif;
+}
+.Footer-innerbox{
+    width: 30%;
+    /* border: solid 2px black; */
+}
+.Footer-innerbox h2{
+    text-align: center;
+}
+.Footer-Contact {
+    font-size: larger;
+    /* color: white; */
+    margin-left: 25%;
+    vertical-align: middle;
+}
+.Footer-Contact img{
+    margin: 2%;
+}
+.Li{
+    display: flex;
+}
+.Footer-Contact .Li div{
+    margin: 3% 2%;
+}
+.Footer-Credit{
+    /* color: white; */
+    padding: 4%;
+    text-align: justify;
+}
+.Footer-Nav {
+    /* text-align: center; */
+    margin-left: 28%;
+    padding: 4%;
+}
+.Footer-Nav .link{
+    text-decoration: none;
+    /* color: white; */
+    font-size: larger;
+    margin: 8% 0;
+}
+.Footer-Nav .link:hover{
+    font-weight: 600;
+    font-size: larger;
+    text-decoration: underline;
+}

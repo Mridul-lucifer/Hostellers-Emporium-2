@@ -1,0 +1,262 @@
+[
+  {
+    "Question": "What is Hostellers' Emporium?",
+    "Answer": "It is a trusted marketplace where hostelers can buy and sell products and services.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "How does Hostellers' Emporium benefit hostelers?",
+    "Answer": "It provides a convenient platform for hostelers to buy or sell items and services within their community.",
+    "AskedFreq": 1
+  },
+  {
+    "Question": "Can I buy furniture at Hostellers' Emporium?",
+    "Answer": "Yes, hostelers can buy furniture and other essential items for their rooms or hostels.",
+    "AskedFreq": 12
+  },
+  {
+    "Question": "Are services also available in Hostellers' Emporium?",
+    "Answer": "Yes, in addition to products, various services such as room cleaning, laundry, and tutoring are also offered.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Can I sell used items at Hostellers' Emporium?",
+    "Answer": "Yes, you can sell used items like books, clothes, or electronics on Hostellers' Emporium.",
+    "AskedFreq": 11
+  },
+  {
+    "Question": "Is Hostellers' Emporium only for hostelers?",
+    "Answer": "Yes, Hostellers' Emporium is designed specifically for hostelers to connect and exchange goods and services.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "How do I list my products on Hostellers' Emporium?",
+    "Answer": "To list products, simply register on the platform, create a product listing with details, and set a price.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "What types of products can I sell at Hostellers' Emporium?",
+    "Answer": "You can sell electronics, books, home decor, clothing, and other hostel-related items.",
+    "AskedFreq": 1
+  },
+  {
+    "Question": "Are there any fees to sell on Hostellers' Emporium?",
+    "Answer": "There may be small listing fees or transaction charges depending on the platform's policies.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "How do I buy items on Hostellers' Emporium?",
+    "Answer": "To buy items, browse through the listings, select the items you want, and follow the checkout process.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Can I contact the seller directly on Hostellers' Emporium?",
+    "Answer": "Yes, you can communicate with the seller via the platform to ask questions or negotiate prices.",
+    "AskedFreq": 20
+  },
+  {
+    "Question": "Is there a rating system for sellers on Hostellers' Emporium?",
+    "Answer": "Yes, buyers can rate sellers based on their experience to help others make informed decisions.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Is Hostellers' Emporium available in multiple cities?",
+    "Answer": "Yes, Hostellers' Emporium is available in many cities, allowing hostelers from different locations to participate.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Can I exchange items on Hostellers' Emporium?",
+    "Answer": "Yes, you can negotiate exchanges of items with other hostelers on the platform.",
+    "AskedFreq": 8
+  },
+  {
+    "Question": "Are there any discounts available on Hostellers' Emporium?",
+    "Answer": "Some sellers offer discounts or special deals on certain items, which you can find on the platform.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Can I sell services like tutoring on Hostellers' Emporium?",
+    "Answer": "Yes, you can offer tutoring, cleaning services, and other personal services on the platform.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "How secure is the payment process on Hostellers' Emporium?",
+    "Answer": "The platform uses secure payment methods to ensure a safe transaction process between buyers and sellers.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Can I return items bought on Hostellers' Emporium?",
+    "Answer": "Return policies depend on the individual seller, but most sellers offer a return or exchange policy.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "How can I get customer support on Hostellers' Emporium?",
+    "Answer": "You can contact customer support through the platform’s help section for any issues or questions.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Do I need to create an account to use Hostellers' Emporium?",
+    "Answer": "Yes, you need to create an account to buy or sell items and access the full features of the platform.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Can I negotiate prices with sellers on Hostellers' Emporium?",
+    "Answer": "Yes, many sellers are open to negotiation, and you can discuss prices directly with them.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Is Hostellers' Emporium available as an app?",
+    "Answer": "Yes, Hostellers' Emporium may have a mobile app available for download to make it easier to browse and transact.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Can I sell food products on Hostellers' Emporium?",
+    "Answer": "Typically, food products are not allowed due to health regulations, but some packaged or non-perishable items may be acceptable.",
+    "AskedFreq": 12
+  },
+  {
+    "Question": "Can I sell books on Hostellers' Emporium?",
+    "Answer": "Yes, selling books, including textbooks and novels, is a popular option for hostelers on the platform.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Are there any restrictions on selling items on Hostellers' Emporium?",
+    "Answer": "Yes, items that are illegal, dangerous, or prohibited by the platform's terms of service cannot be listed for sale.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Can I buy new or brand new products on Hostellers' Emporium?",
+    "Answer": "Yes, many sellers offer brand new products for sale in addition to used items.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "How can I track my order on Hostellers' Emporium?",
+    "Answer": "You can track your order through the platform by checking the order status in your account settings.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Can I buy second-hand electronics on Hostellers' Emporium?",
+    "Answer": "Yes, buying and selling second-hand electronics like phones, laptops, and accessories is common on the platform.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Can I offer home decor services on Hostellers' Emporium?",
+    "Answer": "Yes, if you're skilled in home decoration, you can offer such services to hostelers through the platform.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "What kind of products are popular on Hostellers' Emporium?",
+    "Answer": "Popular products include dorm furniture, kitchen supplies, stationery, books, and clothing.",
+    "AskedFreq": 1
+  },
+  {
+    "Question": "Do sellers offer delivery on Hostellers' Emporium?",
+    "Answer": "Many sellers offer delivery options, but it may vary based on the seller’s location and terms.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Can I sell services like event organizing on Hostellers' Emporium?",
+    "Answer": "Yes, you can list event organizing or similar services that might be in demand by other hostelers.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "How can I cancel an order on Hostellers' Emporium?",
+    "Answer": "You can cancel an order through your account settings, but cancellation policies depend on the seller’s terms.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Can I sell kitchen appliances on Hostellers' Emporium?",
+    "Answer": "Yes, selling used or new kitchen appliances such as microwaves, blenders, and kettles is allowed.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "What are the benefits of using Hostellers' Emporium?",
+    "Answer": "It offers convenience, a wide variety of products, community engagement, and better deals for hostelers.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Can I sell handmade crafts on Hostellers' Emporium?",
+    "Answer": "Yes, handmade crafts and other creative products are welcomed on the platform.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Can I buy and sell services like transportation?",
+    "Answer": "Yes, you can buy and sell services such as transportation or rideshare offers on the platform.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Are transactions on Hostellers' Emporium protected?",
+    "Answer": "Yes, transactions are protected by secure payment systems to ensure safety for both buyers and sellers.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Can I trade items with other hostelers?",
+    "Answer": "Yes, Hostellers' Emporium allows for item trading, depending on the agreement between buyers and sellers.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Can I find roommates through Hostellers' Emporium?",
+    "Answer": "While primarily for products and services, some hostelers may list roommate-seeking posts in certain areas.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "How do I leave feedback for a seller on Hostellers' Emporium?",
+    "Answer": "After completing a transaction, you can leave feedback directly on the seller’s profile or product page.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Can I offer fitness training services on Hostellers' Emporium?",
+    "Answer": "Yes, if you are a fitness trainer, you can offer your services to other hostelers on the platform.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "How do I edit my product listing on Hostellers' Emporium?",
+    "Answer": "You can edit your product listing by going to your seller dashboard and updating the details or price.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Is there a limit to how many items I can list on Hostellers' Emporium?",
+    "Answer": "There may be a limit based on the platform’s terms, but generally, you can list as many items as needed.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Can I sell custom-made clothing on Hostellers' Emporium?",
+    "Answer": "Yes, custom-made clothing is a popular category on Hostellers' Emporium, especially for students.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Is it possible to advertise my business on Hostellers' Emporium?",
+    "Answer": "If your business is relevant to hostelers, you can advertise your products or services on the platform.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Can I get updates about new products on Hostellers' Emporium?",
+    "Answer": "Yes, you can subscribe to notifications or newsletters to receive updates about new products and deals.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Can I buy gym equipment on Hostellers' Emporium?",
+    "Answer": "Yes, gym equipment like weights, mats, and other fitness gear can be bought and sold on Hostellers' Emporium.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Can I offer tech support services on Hostellers' Emporium?",
+    "Answer": "Yes, if you're skilled in tech support, you can offer your services to hostelers in need of assistance.",
+    "AskedFreq": 0
+  },
+  {
+    "Question": "Who made this ?",
+    "Answer": "Team 3 of G-2",
+    "AskedFreq": 4
+  },
+  {
+    "Question": "Who was your inspiration for the project?",
+    "Answer": "Our Mentors ",
+    "AskedFreq": 1
+  },
+  {
+    "Question": "Who are the members of Team 3?",
+    "Answer": "Mridul Gupta",
+    "AskedFreq": 0
+  }
+]

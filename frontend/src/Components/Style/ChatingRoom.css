@@ -1,0 +1,32 @@
+.ChatingRoom-outer{
+    border : 2px solid grey;
+    margin: 5vh 20vw;
+    padding: 1vh 1vw;
+    background-color: rgb(233, 202, 180);
+}
+.ChatingRoom-header{
+    text-align: center;
+    padding: 1vh 1vw;
+}
+.ChatingRoom-line{
+    display: flex;
+}
+.ChatingRoom-name{
+    width: 7vw;
+    overflow: hidden;
+    background-color: lightblue;
+}
+.ChatingRoom-line div{
+    margin: 1vh 1vw;
+}
+.ChatingRoom-input-outer{
+    background-color: antiquewhite;
+    min-height: 10vh;
+}
+.ChatingRoom-input-outer form{
+    margin: 2vh 15vw;
+}
+.ChatingRoom-input-outer form input{
+    font-size: larger;
+    margin: 3vh 1vw;
+}
